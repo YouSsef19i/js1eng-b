@@ -1,0 +1,71 @@
+body{background:#EFEFEF;
+    color: white;
+    font-family: 'Shojumaru';font-size: 18px;
+    text-align: center;
+}
+
+fieldset
+{
+background:#461811; 
+border:2px solid black ;
+box-shadow: 2px 2px #888888;
+border-radius: 15px;
+width:300px;
+height: 500px;
+padding:10px  10px  10px 10px; 
+margin: 0 auto;
+
+}    
+
+legend
+{
+    font-family: 'Trade Winds';font-size: 22px;
+background:#1f030c; 
+border:2px solid black ;
+box-shadow: 2px 2px #888888;
+border-radius: 5px;
+padding:10px;
+margin-left: 80px   
+
+
+}
+
+input[type="text"]{
+    font-family: 'Slackey';font-size: 22px;
+    width: 40%;
+    height: 25px;
+    border-color: #ad133a;   
+    box-shadow: 0 2px 0 #ad133a;
+    outline: none ;
+    padding: 8px ; 
+    box-sizing: border-box;
+     }
+
+    button {
+        font-family: 'Trade Winds';font-size: 22px;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: block;
+    margin: 30px auto;
+    background: #AD133A;
+    border-radius: 5px;
+    width: 60%;
+    height: 40px;
+    font-size: 17px;
+    border-radius: 5px;
+    }
+    
+    #demo
+    {
+        font-family: 'Trade Winds';font-size: 22px;
+    }
+      
+  #b {
+    font-family: 'Slackey';font-size: 16px;
+    border-color: #ad133a;   
+    box-shadow: 0 2px 0 #ad133a;
+    outline: none ;
+    padding: 8px ; 
+    box-sizing: border-box;
+
+  }
